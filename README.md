@@ -1,0 +1,3 @@
+# Kebab ranking by Bayesian average
+
+... need to add some stuff here ...
