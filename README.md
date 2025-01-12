@@ -1,3 +1,4 @@
 # Kebab ranking by Bayesian average
 
-... need to add some stuff here ...
+<img src="images/image.jpeg" alt="Kebab map logo" width="600" height="400">
+
